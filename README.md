@@ -1,7 +1,12 @@
 # Welcome to F0rest Raidboss Tracker 9000
-This simple webpage will continuously update some simple text fields, every minute, with info about the CS:GO surf map and SteamId that has been provided.
+This simple webpage will continuously update some simple text fields, once every minute, with info about the CS:GO surf map and SteamId that has been provided.
 
-# How To Setup
+# How To Use
+## Download
+- Click the green `Code` button
+- Select `Download ZIP`
+- Extract the files to your desired location
+
 ## Configure surf map and steam-user
 - Open the `params.js` file in your prefered text-editor
 - Set the `mapName` that you want to track
@@ -14,4 +19,3 @@ This simple webpage will continuously update some simple text fields, every minu
 - Select `index.html`
 - Tick `Shutdown source when not visible`
 - Tick `Refresh browser when scene becomes active`
-
