@@ -1,2 +1,2 @@
-const mapName = 'surf_ezclap'
-const steamId = 36360652
+const mapName = 'surf_damn'
+const steamId = 93724
