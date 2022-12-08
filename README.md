@@ -19,3 +19,6 @@ This simple webpage will continuously update some simple text fields, once every
 - Select `index.html`
 - Tick `Shutdown source when not visible`
 - Tick `Refresh browser when scene becomes active`
+
+## SurfHeaven doesn't update instantly
+Just be aware that SurfHeaven doesn't update the data instantly. In my testing it sometimes took 30 minutes, before the map appeared for the first time. But in most cases f0rest will use more than 30 minutes on a map, before it gets promoted to Raidboss status, so I think this is no problem.
